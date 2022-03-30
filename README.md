@@ -1,5 +1,5 @@
 # Eurovision Bot
-@eurovisionwinnerwrediction_bot \n
+@eurovisionwinnerwrediction_bot /n
 http://liiina.pythonanywhere.com/
 
 # Описание бота
